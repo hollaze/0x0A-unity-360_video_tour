@@ -8,6 +8,11 @@
 - What is the difference between monoscopic and stereoscopic 360 video
 - What are render textures
 - How to use Unity’s Video Player component
+- How to use VR in Unity (basics)
+
+## What is this project about
+
+- 360 video tour in the San Francisco campus
 
 Attribution:
 
