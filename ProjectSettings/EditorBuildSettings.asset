@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/360VideoTour.unity
+    guid: 8d1bd2b0ec2679e49bf53128bbc0d6b4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 00c7f2958c7d8fd4ab1159457de015ea, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2bfd98f9f3860994cb309ad0a83650cf, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: f4c2e4c7ac9d9ee429ebc32a47d0d50e, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 13dcaa6b680f0f14ea237875faa44960, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e40ff1ab9aa457b4193f7b694004d875, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 69e3c6dd184fb2c4cb4e5a3797d2e8c2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 92b2b83f32156f64bafad8bf115c13f3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 922e428c3734d3b41abf70343d477491, type: 2}
