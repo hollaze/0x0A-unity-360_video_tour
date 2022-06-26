@@ -18,3 +18,24 @@ Attribution:
 
 - Tech Live by Kevin MacLeod Link: https://incompetech.filmmusic.io/song/4463-tech-live
 - - License: https://filmmusic.io/standard-license
+
+
+## How to move in the scene
+![](Readme_Images/PlacesToGo.PNG)
+
+<br/>
+
+## Hotspots
+
+<br/>
+
+![](Readme_Images/HotSpotClick.gif)
+
+<br/>
+
+## Informations Spots
+
+<br/>
+
+![](Readme_Images/DescriptionClick.gif)
+
