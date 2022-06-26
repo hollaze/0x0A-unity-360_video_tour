@@ -14,11 +14,14 @@
 
 - 360 video tour in the San Francisco campus
 
-Attribution:
+## Attribution
 
 - Tech Live by Kevin MacLeod Link: https://incompetech.filmmusic.io/song/4463-tech-live
 - - License: https://filmmusic.io/standard-license
 
+## Visual informations about the project :
+
+<br/>
 
 ## How to move in the scene
 ![](Readme_Images/PlacesToGo.PNG)
